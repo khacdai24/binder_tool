@@ -15,7 +15,7 @@
 
 <br />
 
-<img src="https://socialify.git.ci/khacdai24/pro_binder/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" alt="Project Banner" width="800" />
+<img src="assets/screenshot.png" alt="Pro Binder - App Preview" width="800" />
 
 <br />
 
